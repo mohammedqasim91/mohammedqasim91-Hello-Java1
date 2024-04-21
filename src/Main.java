@@ -13,7 +13,7 @@ public class Main {
            System.out.println("Great time to sip a bit of it");
        }
 
-       double teaPrice = 4;
+       double teaPrice = 14;
 
        if (teaPrice < 7.5) {
            System.out.println("Its on discount lets buy it!");
